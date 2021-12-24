@@ -20,3 +20,6 @@ Contents
 
    usage
    api
+
+
+ FanDao has its documentation hosted on Read the Docs.
